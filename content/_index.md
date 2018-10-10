@@ -18,7 +18,7 @@ business, artists and entrepreneurs.
 
 All proceeds and donations go to help support the [Burned Children Recovery Foundation][2]
 
-Music will be provided by the live band [Baby Cakes][3] and [Otto-matic][4] with
+Music will be provided by the live band [Baby Cakes][3] and [Otto-matic][5] with
 DJ Justin.
 
 Discounted room rates are offered by the [Holiday Inn][1]. They will be also
