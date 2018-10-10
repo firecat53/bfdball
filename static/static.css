@@ -37,3 +37,18 @@ h1,h2 {
   text-align: center;
   margin: auto;
 }
+
+div#form {
+  display: block;
+  text-align: center;
+}
+
+form {
+  margin: auto;
+  margin-top: 1em;
+}
+
+table {
+  margin: auto;
+  margin-bottom: 2em;
+}
