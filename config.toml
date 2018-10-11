@@ -5,6 +5,8 @@ theme = "ananke"
 
 [params]
     background_color_class = "bg-red"
+    body_classes = "baskerville bg-moon-gray"
     featured_image = false
     facebook = "https://www.facebook.com/iaff106/"
+    github = "https://github.com/firecat53/bfdball"
     custom_css = ["static.css"]

@@ -1,6 +1,6 @@
 ---
 title: "120th Annual Bellingham/Whatcom County Firefighters Community Ball"
-featured_image: "iaff106.jpg"
+featured_image: "iaff-new-years.jpg"
 ---
 
 # December 31st, 2018.  *6:30 pm - Midnight* at the [Holiday Inn and Suites][1]
