@@ -7,6 +7,6 @@ theme = "ananke"
     background_color_class = "bg-red"
     body_classes = "baskerville bg-moon-gray"
     featured_image = false
-    facebook = "https://www.facebook.com/iaff106/"
+    facebook = "https://facebook.com/Bellingham-Firefighters-Community-Ball-2318651721701485/"
     github = "https://github.com/firecat53/bfdball"
     custom_css = ["static.css"]
