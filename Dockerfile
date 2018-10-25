@@ -12,6 +12,7 @@ RUN apk --no-cache add ca-certificates curl && \
 
 COPY . /data
 WORKDIR /data
+ENV HUGO_ENV production
 RUN hugo
 
 ### Build nginx container

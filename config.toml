@@ -2,6 +2,7 @@ baseURL = "https://bfdball.firecat53.com"
 languageCode = "en-us"
 title = "Bellingham Firefighters Community Ball"
 theme = "ananke"
+enableRobotsTXT = true
 
 [params]
     background_color_class = "bg-red"
