@@ -23,7 +23,9 @@ business, artists and entrepreneurs.
 </form>
 </div>
 
-All proceeds and donations go to help support the [Burned Children Recovery Foundation][2]
+All proceeds and donations go to help support the [Burned Children Recovery
+Foundation][2] and the [Jason Karwhite Memorial Scholarship][7] through the IAFF 106
+Benevolent Foundation.
 
 Music will be provided by the live band [Baby Cakes][3] and [Otto-matic][5] with
 DJ Justin.
@@ -62,3 +64,4 @@ Online ticket sales will end 24 hours prior to the event.
 [4]: http://www.ohsnapeventphotobooths.com "OhSnap Photo Booths"
 [5]: http://www.ottoolson.com/ "Otto-Matic Mobile Music"
 [6]: https://goo.gl/maps/x2pV7cUeb1B2 "Directions to Holiday Inn"
+[7]: https://www.iaff106.com/news/story/firefighter-jason-karwhite-memorial-scholarship "Jason Karwhite Memorial Scholarship"
