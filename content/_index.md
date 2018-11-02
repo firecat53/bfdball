@@ -13,11 +13,21 @@ bar. The auctions will include items, services and gift packages from local
 business, artists and entrepreneurs.
 
 <div id="form">
-<b><em>Buy Tickets Now!</em></b> $50/person online or $60 at the door.
+<b><em>Buy Tickets Now!</em></b> $50/person online or $60 at the door. Reserve a
+full table (10 seats) for $500. We will contact you regarding reserved table
+selection (see below for table layout).
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="UKHFK5MVCUT86">
+<table>
+<tr><td><input type="hidden" name="on0" value="Ticket Options">Ticket Options</td></tr><tr><td><select name="os0">
+	<option value="1 Ticket">1 Ticket $50.00 USD</option>
+	<option value="2 Tickets">2 Tickets $100.00 USD</option>
+	<option value="Full table (10 seats)">Full table (10 seats) $500.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
@@ -31,8 +41,8 @@ Music will be provided by the live band [Baby Cakes][3] and [Otto-matic][5] with
 DJ Justin.
 
 Discounted room rates are offered by the [Holiday Inn][1]. They will be also
-providing hors d'oeuvres, non-alcoholic beverages and several no-host bars that
-will take cash and card.
+providing hors d'oeuvres, non-alcoholic beverages and a no-host bar that will
+take cash and card.
 
 [Directions to Holiday Inn - 4260 Mitchell Way, Bellingham][6]
 
@@ -46,6 +56,8 @@ Online ticket sales will end 24 hours prior to the event.
 7:30pm - 8:00pm  | Live Auction                              |
 8:15pm - 10:45pm | Live Band (Baby Cakes) and silent auction |
 10:45pm - ???    | DJ Justin, midnight champange toast       |
+
+[!["Table Layout" alt <>](tables.jpg "Table Layout")](tables.jpg)
 
 * [!["IAFF Local l06" >](iaff106.jpg "IAFF Local 106")](https://iaff106.com)
 
@@ -65,3 +77,4 @@ Online ticket sales will end 24 hours prior to the event.
 [5]: http://www.ottoolson.com/ "Otto-Matic Mobile Music"
 [6]: https://goo.gl/maps/x2pV7cUeb1B2 "Directions to Holiday Inn"
 [7]: https://www.iaff106.com/news/story/firefighter-jason-karwhite-memorial-scholarship "Jason Karwhite Memorial Scholarship"
+[8]: mailto://bellinghamfirefightersball@gmail.com

@@ -16,6 +16,17 @@ img[alt$=">"] {
   padding: 0;
 }
 
+img[alt$="<>"] {
+  clear: both;
+  height: auto;
+  display: block;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2em;
+  padding: 0;
+}
+
 ul {
   display: block;
   margin-left: auto;
