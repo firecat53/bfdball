@@ -15,7 +15,7 @@ business, artists and entrepreneurs.
 <div id="form">
 <b><em>Buy Tickets Now!</em></b> $50/person online or $60 at the door. Reserve a
 full table (10 seats) for $500. We will contact you regarding reserved table
-selection (see below for table layout).
+selection (<a href="tables.jpg">Click for table layout</a>).
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -56,8 +56,6 @@ Online ticket sales will end 24 hours prior to the event.
 7:30pm - 8:00pm  | Live Auction                              |
 8:15pm - 10:45pm | Live Band (Baby Cakes) and silent auction |
 10:45pm - ???    | DJ Justin, midnight champange toast       |
-
-[!["Table Layout" alt <>](tables.jpg "Table Layout")](tables.jpg)
 
 * [!["IAFF Local l06" >](iaff106.jpg "IAFF Local 106")](https://iaff106.com)
 
