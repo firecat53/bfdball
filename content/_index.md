@@ -7,15 +7,16 @@ featured_image: "iaff-new-years.jpg"
 
 [!["Firefighter Ball Poster" alt <](poster.jpg "Bellingham Firefighers Community Ball")](poster.jpg)
 
-Come dance with a firefighter! This is a fun, semi-formal social event and
-charity fundraiser with music, dancing, silent and live auctions and no-host
-bar. The auctions will include items, services and gift packages from local
-business, artists and entrepreneurs.
+Get your best NEW YEARS EVE attire ready and come to the Bellingham firefighters
+community ball! This is a fun, semi-formal social event and charity fundraiser
+with music, dancing, silent and live auctions and no-host bar. The auctions will
+include items, services and gift packages from local business, artists and
+entrepreneurs.
 
 <div id="form">
-<b><em>Buy Tickets Now!</em></b> $50/person online or $60 at the door. Reserve a
-full table (10 seats) for $500. We will contact you regarding reserved table
-selection (<a href="tables.jpg">Click for table layout</a>).
+<p><b><em>Buy Tickets Now!</em></b> $50/person online or $60 at the door.</p>
+<p>Reserve a full table (10 seats) for $500. We will contact you regarding
+reserved table selection (<a href="tables.jpg"><b>Click for table layout</b></a>).</p>
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
