@@ -39,7 +39,7 @@ Foundation][2] and the [Jason Karwhite Memorial Scholarship][7] through the IAFF
 Benevolent Foundation.
 
 Music will be provided by the live band [Baby Cakes][3] and [Otto-matic][5] with
-DJ Justin.
+DJ Dylan.
 
 Discounted room rates are offered by the [Holiday Inn][1]. They will be also
 providing hors d'oeuvres, non-alcoholic beverages and a no-host bar that will
