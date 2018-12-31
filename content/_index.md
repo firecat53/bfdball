@@ -14,6 +14,7 @@ include items, services and gift packages from local business, artists and
 entrepreneurs.
 
 <div id="form">
+<p><b><em>Online ticket sales close at noon today (12/31)!!</em></b></p>
 <p><b><em>Buy Tickets Now!</em></b> $50/person online or $60 at the door.</p>
 <p>Reserve a full table (10 seats) for $500. We will contact you regarding
 reserved table selection (<a href="tables.jpg"><b>Click for table layout</b></a>).</p>
