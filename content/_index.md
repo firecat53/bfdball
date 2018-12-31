@@ -14,25 +14,8 @@ include items, services and gift packages from local business, artists and
 entrepreneurs.
 
 <div id="form">
-<p><b><em>Online ticket sales close at noon today (12/31)!!</em></b></p>
-<p><b><em>Buy Tickets Now!</em></b> $50/person online or $60 at the door.</p>
-<p>Reserve a full table (10 seats) for $500. We will contact you regarding
-reserved table selection (<a href="tables.jpg"><b>Click for table layout</b></a>).</p>
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="UKHFK5MVCUT86">
-<table>
-<tr><td><input type="hidden" name="on0" value="Ticket Options">Ticket Options</td></tr><tr><td><select name="os0">
-	<option value="1 Ticket">1 Ticket $50.00 USD</option>
-	<option value="2 Tickets">2 Tickets $100.00 USD</option>
-	<option value="Full table (10 seats)">Full table (10 seats) $500.00 USD</option>
-</select> </td></tr>
-</table>
-<input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+<p><b><em>Online ticket sales closed.</em></b>Purchase tickets for $60 at the door.</p>
+<p><a href="tables.jpg">Click for table layout</a></p>
 </div>
 
 All proceeds and donations go to help support the [Burned Children Recovery
@@ -49,8 +32,6 @@ take cash and card.
 [Directions to Holiday Inn - 4260 Mitchell Way, Bellingham][6]
 
 For your enjoyment there will be a photo booth provided by [Oh Snap!][5].
-
-Online ticket sales will end 24 hours prior to the event.
 
   | 
 -----------------|-------------------------------------------|
